@@ -24,7 +24,7 @@
 
 ```bash
 git clone https://github.com/Durgesh-18/GeneHack.git
-cd genehack-amr
+cd GeneHack
 ```
 
 ### 2. **Create and Activate a Virtual Environment**
