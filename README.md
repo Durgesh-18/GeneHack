@@ -23,7 +23,7 @@
 ### 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/genehack-amr.git
+git clone https://github.com/Durgesh-18/GeneHack.git
 cd genehack-amr
 ```
 
