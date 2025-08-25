@@ -10,7 +10,7 @@ import os
 # ==========================
 # Initialize Gemini client
 # ==========================
-GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "") #"AIzaSyDOsQ9ER3Y1piWZw6vXlg08L_pe5WcbuS8"
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
 genai.configure(api_key=GEMINI_API_KEY)
 
 # Use Gemini model (fast version)
