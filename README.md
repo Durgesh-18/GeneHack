@@ -50,7 +50,7 @@ pip install -r requirements.txt
 Create a `.env` file in the project root with your OpenAI API key:
 
 ```
-OPENAI_API_KEY=sk-...
+GEMINI_API_KEY=A...
 ```
 
 Or, set the environment variable in your shell before running the app.
